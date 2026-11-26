@@ -16,4 +16,3 @@
 | **Full Name** | Sotvoldiyeva Mavluda |
 | **Student ID** | 240456 |
 | **Group** | JSE2 |
-s
